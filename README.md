@@ -4,6 +4,14 @@
 This version of the classic Flappy Bird game is developed using Unreal Engine 5 with blueprints.
 
 
+## Downloading the Game
+Due to its large size, the game files are hosted on Mega. Follow the steps below to download the game:
+
+1. **Visit Mega**: Go to [Mega](https://mega.nz/file/sm9WiByB#N5ga8rzY2hqSQYYmVf6wkRVW6lDxHxW2-dfCRL98a4w) in your web browser.
+2. **Download the Game Files**: Navigate to the provided Mega link to download the game files.
+3. **Extract the Files**: After downloading, extract the contents of the downloaded folder.
+
+
 ## Getting Started
 To start playing the game, follow these steps:
 
